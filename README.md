@@ -1,5 +1,5 @@
 # Restful-Api
-SpringBoot Restful-Api that saves data to MySQL database.<br><br>
+SpringBoot Restful-Api that saves location data to MySQL database.<br><br>
 To compile:
 ```
 mvn clean compile
